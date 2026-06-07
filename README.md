@@ -1,4 +1,5 @@
 # Yarra River Stormwater Pollution Risk Dashboard
+![Dashboard](Dashboard_Screenshot.png)
 
 ## Project Overview
 This Tableau dashboard analyses stormwater pollution risk in the Yarra River by examining E. coli levels, rainfall patterns, and site-level risk indicators.
